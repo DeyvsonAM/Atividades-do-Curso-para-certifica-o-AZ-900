@@ -1,0 +1,5 @@
+Nesta atividade eu explorei dentro do portal azure, a parte 
+de criação de maquinas virtuais e avaliei e pesquisei quais os
+níveis de SLA, cada tipo de serviço entregava, além de ter
+visto o quanto está permitido um serviço ficar fora do ar
+com base no seu nível de SLA

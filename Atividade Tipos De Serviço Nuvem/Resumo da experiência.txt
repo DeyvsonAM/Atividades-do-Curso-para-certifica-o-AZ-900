@@ -1,0 +1,4 @@
+Nesta atividade eu explorei novamente dentro do portal azure, a parte 
+de criação de maquinas virtuais porém dessa vez um pouco mais 
+aprofundado, também foi visto a parte de criação de um banco
+de dados SQL, Sendo ressaltado a observância do tipo de serviço que estava sendo acessado.
